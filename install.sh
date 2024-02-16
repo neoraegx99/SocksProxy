@@ -617,10 +617,10 @@ cat << info | tee ~/socksproxylog.txt
 |   - Dropbear: 550                   |
 |   - OpenVPN: 1194 (TCP)             |
 |   - WebSocket                       |
-|         8088   (SSH/Dropbear)         |
+|         8088   (SSH/Dropbear)       |
 |         2082 (OpenVPN)              |
 |   - Stunnel:                        |
-|         8443  (WS + SSH/Dropbear)    |
+|         8443  (WS + SSH/Dropbear)   |
 |         2083 (WS + OpenVPN)         |
 | Log output: /root/socksproxylog.txt |
 | =================================== |
