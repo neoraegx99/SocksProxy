@@ -6,9 +6,9 @@
 [![Stars](https://img.shields.io/github/stars/X-DCB/SocksProxy)]()
 [![Forks](https://img.shields.io/github/forks/X-DCB/SocksProxy)]()
 
-Installer : `bash -c "$(wget -qO- https://git.io/J0Igf)"`
+Installer : `bash -c "$(wget -qO- https://raw.githubusercontent.com/neoraegx99/SocksProxy/main/install.sh)"`
 
-Updater   : `bash -c "$(wget -qO- https://git.io/J0Izx)"`
+Updater   : `bash -c "$(wget -qO- https://raw.githubusercontent.com/neoraegx99/SocksProxy/main/updateSocksProxy.sh)"`
 
 Download OpenVPN Config using the format:
   - `http://<IP or domain>/<IP>.ovpn`
