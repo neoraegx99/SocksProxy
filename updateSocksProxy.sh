@@ -20,7 +20,7 @@ else
 cat << 'basic' > $loc/server.conf
 [ssh]
 timer = 0
-sport = 80
+sport = 8088
 dport = 22
 
 [openvpn]
