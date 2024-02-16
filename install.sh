@@ -34,9 +34,9 @@ read -p "Press ENTER to continue..."
 # Ports
 drbp=550
 ovpn=1194
-ws_ssh=80
+ws_ssh=8088
 ws_ovpn=2082
-st_ssh=443
+st_ssh=8443
 st_ovpn=2083
 
 clear
